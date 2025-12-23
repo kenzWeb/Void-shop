@@ -1,0 +1,5 @@
+export {HighlightedText} from './highlighted-text'
+export {SearchInput} from './search-input'
+export {SearchResult} from './search-result'
+export {SearchResults} from './search-results'
+export {SearchSuggestions} from './search-suggestions'
