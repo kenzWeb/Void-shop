@@ -1,0 +1,6 @@
+export const sectionStyles = 'py-8'
+export const containerStyles = 'mx-auto max-w-3xl'
+export const headerStyles = 'mb-12'
+export const titleStyles = 'text-4xl font-bold tracking-tighter lg:text-5xl'
+export const sectionListStyles = 'space-y-10'
+export const contactCardStyles = 'mt-12 border border-border p-6'
